@@ -7,7 +7,7 @@ The **PHL-R Registry** is a community-driven repository hosted on [R-Universe](h
 ---
 
 ## 🏛️ Our Mission
-In the Philippines, "Queen Contiguity" (the assumption of land-based connectivity) often fails our data. We provide the infrastructure for:
+We provide the infrastructure for:
 * **Archipelagic Spatial Modeling:** Tools like `roroph` and `ArchipelagoEngine` that account for maritime logistics.
 * **National Statistics:** Streamlining access to PSA and LGU-level data.
 * **Public Health:** Hosting foundational epidemiology tools built for the Philippine context.
