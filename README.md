@@ -38,4 +38,4 @@ Open an Issue with your repository link.
 
 Submit a Pull Request to the packages.json file.
 
-Built with resilience for our 7,641 islands.
+*- Built with resilience for our 7,641 islands.*
