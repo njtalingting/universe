@@ -1,7 +1,5 @@
 <div align="center">
   <img src="logo.png" width="120" />
-  <h1>PinasR Registry</h1>
-  <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
 
 ## 📢 Thanks for you interest to contribute to #PinasR! 
