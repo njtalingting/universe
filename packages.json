@@ -1,14 +1,23 @@
 [
   {
     "package": "roroph",
-    "url": "https://github.com/pinasr/roroph"
+    "url": "https://github.com/pinasr/roroph",
+    "status": "core"
   },
   {
     "package": "ArchipelagoEngine",
-    "url": "https://github.com/pinasr/ArchipelagoEngine"
+    "url": "https://github.com/pinasr/ArchipelagoEngine",
+    "status": "core"
   },
   {
     "package": "palettephines",
-    "url": "https://github.com/pinasr/palettephines"
+    "url": "https://github.com/pinasr/palettephines",
+    "status": "core"
+  },
+  {
+    "package": "phscs",
+    "url": "https://github.com/yng-me/phscs",
+    "status": "indexed",
+    "note": "Philippine Statistical Classification Systems"
   }
 ]
